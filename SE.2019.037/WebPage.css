@@ -1,0 +1,154 @@
+.main{
+    
+}
+
+.navbar{
+    display: flex;
+    Align-item:centar;
+    background-color: thistle;
+    
+}
+
+.one{
+    flex:1;
+    text-align:center;
+    font-weight: 400;
+}
+
+.one ul{
+    display:inline-block;
+    list-style-type:none;
+}
+
+.one ul li{
+    display:inline-block;
+    margin-right:30px;
+}
+
+.two{
+    margin-left:
+    margin-top: 1000px
+    border-style: outset;
+    background-color: rgb(143, 231, 42);
+    height:25px;
+    width:200px;
+    float: left;
+}
+
+.two ul{
+    list-style-type:none;
+}
+#green{
+    color: rgb(143, 231, 42);
+    font-size:20px;
+}
+
+#mid{
+    float: left;
+    border-style: outset;
+    background-color: white;
+    height:300px;
+    width:630px;
+    position: relative;
+    left: 150px;
+}
+#search_bar{
+    border-style: outset;
+    height:50px;
+    width:430px;
+    background:linear-gradient(90deg,white 90%, rgb(143, 231, 42)50%);  
+    float: left;
+}
+
+#search_one{
+    float: left;
+    position: relative;
+    left:10px;
+    top:0px;
+    
+}
+
+#search_two{
+    float: right;
+}
+#search_three{
+        float:left;
+        position:relative;
+        left:50px;
+        color: rgb(145, 140, 134);
+}
+#phone{
+    float: right;
+    border-style: outset;
+    height:50px;
+    width:150px;  
+}
+#PP{
+    float: left;
+}
+#number{
+    float:right;
+    
+}
+#vegetables{
+    position:absolute;
+    top:60px;
+    height:220px;
+    width:630px;
+    clear: both;
+}
+#vegetablesone{
+    float: left;
+}
+
+#vegetablestwo{
+    float:right;
+}
+#vegetablesthree{
+    border-radius:10px;
+    border-style:outset;
+    border-width: 1px;
+    background-color: rgb(143, 231, 42);
+    width: 80px;
+    position:absolute;
+    top:220px;
+    left:180px;
+    clear: both;
+}
+
+#last{
+    border-style: none;
+}
+#ff{
+    position: absolute;
+    top:400px;
+    left:150px;
+}
+#df{
+    position: absolute;
+    top:400px;
+    left:450px;
+}
+#v{
+    position: absolute;
+    top:400px;
+    left:750px;
+}
+#d{
+    position: absolute;
+    top:400px;
+    left:1050px;
+}
+#fp{
+    position: absolute;
+    top:530px;
+    left:580px;
+}
+#lastnav{
+    width:1350px;
+    text-align: center;
+    background-color: thistle;
+    position: absolute;
+    top:580px;
+    
+}
